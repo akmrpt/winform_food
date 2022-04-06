@@ -1,0 +1,13 @@
+E:\DevExpressDotNet\desktop_milk\desktop_milk\obj\Debug\desktop_milk.csprojResolveAssemblyReference.cache
+E:\DevExpressDotNet\desktop_milk\desktop_milk\obj\Debug\desktop_milk.Form1.resources
+E:\DevExpressDotNet\desktop_milk\desktop_milk\obj\Debug\desktop_milk.Properties.Resources.resources
+E:\DevExpressDotNet\desktop_milk\desktop_milk\obj\Debug\desktop_milk.csproj.GenerateResource.Cache
+E:\DevExpressDotNet\desktop_milk\desktop_milk\obj\Debug\desktop_milk.exe.licenses
+E:\DevExpressDotNet\desktop_milk\desktop_milk\bin\Debug\desktop_milk.exe
+E:\DevExpressDotNet\desktop_milk\desktop_milk\bin\Debug\desktop_milk.pdb
+E:\DevExpressDotNet\desktop_milk\desktop_milk\obj\Debug\desktop_milk.exe
+E:\DevExpressDotNet\desktop_milk\desktop_milk\obj\Debug\desktop_milk.pdb
+E:\DevExpressDotNet\desktop_milk\desktop_milk\bin\Debug\dbFood.accdb
+E:\DevExpressDotNet\desktop_milk\desktop_milk\bin\Debug\desktop_milk.exe.config
+E:\DevExpressDotNet\desktop_milk\desktop_milk\obj\Debug\desktop_milk.attribute.resources
+E:\DevExpressDotNet\desktop_milk\desktop_milk\obj\Debug\desktop_milk.index.resources
